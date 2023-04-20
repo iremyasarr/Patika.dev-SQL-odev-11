@@ -1,9 +1,6 @@
 # Patika.dev-SQL-odev-11
 Patika.dev &amp; FMSS İş Analisti Practicum SQL ödevi
 
-# Patika.dev-SQL-ödev-8
-Patika.dev &amp; FMSS İş Analisti Practicum SQL ödevi
-
 #### 1. actor ve customer tablolarında bulunan first_name sütunları için tüm verileri sıralayalım.
 <code>
 (SELECT first_name FROM actor)
